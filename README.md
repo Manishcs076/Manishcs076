@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Flutter.<br>I'm looking to collaborate on payment gateway integration.<br>I'm looking for help with 3D Animation on Blender.<br>I'm currently learning Blender.<br>Ask me about Flutter, Dart, Rive, Hive, Firebase and API integration.<br>
+🔭 I’m currently working on Flutter.<br>I'm looking to collaborate on payment gateway integration.<br>I'm looking for help with 3D Animation on Blender.<br>🌱 I’m currently learning Blender.<br>Ask me about Flutter, Dart, Rive, Hive, Firebase and API integration.<br>
 
 
 ## 🌐 Socials:
